@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Panwar</h1>
-<h3 align="center">A passionate Programmer || Web Developer || Competitive Programmer</h3>
+<h3 align="center">A passionate Programmer | Web Developer | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishallpanwar&label=Profile%20views&color=0e75b6&style=flat" alt="vishallpanwar" /> </p>
 
